@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bishalpandit.
 - 👀 I’m a MERN Stack developer.
-- 🌱 I’m currently learning Flutter and Backend development
+- 🌱 I’m currently learning DSA and Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ bishalpandit17@gmail.com
 
