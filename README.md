@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bishalpandit.
-- 👀 I’m a 3rd year CSE Student.
+- 👀 I’m a final year CSE Student.
 - 🌱 I’m currently learning DSA and Backend development.
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me @ bishal.pandit.dev@gmail.com
