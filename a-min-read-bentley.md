@@ -13,4 +13,6 @@ The best intern benefit is when you can take 8 days ka free leave for 2 days exa
 
 After a never-forgetting mentor like Atul, looking forward to have the same experience from dual-mentorship this time from Dhiman. Taught a lot apart from technical stuff which helped me for my college to corporate transition (Truly grateful to Atul Deopujari 😌).
 
-Thanks if you've come this far reading and I'm sorry if I might've made you waste a pinch of your energy for the day 😜.  I think this makes more sense than a "#Day1" photo 🙂.
+It gets even more exciting when someone waits after your day one ends and your mentor tries to explain everthing in one day. :)
+
+Thanks if you've come this far reading and I'm sorry if I might've made you waste a pinch of your energy for the day 😜.  I think this makes more sense than a "#Day1" photo 🙂. 
