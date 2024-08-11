@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bishalpandit.
-- 👀 I’m a final year Computer Science Engg. Student.
-- 🌱 I’m currently learning DSA and Backend development.
+- 👀 I’m a SWE @Bentley Systems.
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 Reach me @ bishal.pandit.dev@gmail.com
+- 📫 Reach me @ bishalpandit17@gmail.com
 
 ### Frameworks and Tools:
 
